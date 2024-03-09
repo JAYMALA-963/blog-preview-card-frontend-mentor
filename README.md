@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Blog Preview Card](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor Blog Preview Card](https://www.frontendmentor.io/solutions/blog-preview-card-using-semantic-html-and-vanilla-css-NFdPOq90qx)
 - Live Site URL: [Blog Preview Card](https://jaymala-963.github.io/blog-preview-card-frontend-mentor/)
 
 ## My process
@@ -56,7 +56,7 @@ As I am a beginner, my solution might be imperfect in some places. However, I wo
 
 ### Useful resources
 
-- [Example resource 1](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties) - This helped me to understand and know more custom CSS properties. I really liked the MDN documentation. It is really helful for begginers like me. 
+- [MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties) - This helped me to understand and know more custom CSS properties. I really liked the MDN documentation. It is really helful for begginers like me. 
 - [Learn The Web](https://learntheweb.courses/topics/html-semantics-cheat-sheet/) - This is an amazing website which helped me to understand and know more about semantic HTML elements and their usage. I'd recommend it to anyone who is looking for nice cheetsheet for html semantic elements.
 
 
